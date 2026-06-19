@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="340" viewBox="0 0 560 340">
+  <rect width="560" height="340" fill="#f2f2f2"/>
+  <rect width="560" height="88" fill="#5c6366"/>
+  <text x="280" y="55" text-anchor="middle" font-family="Arial" font-size="31" font-weight="800" fill="#fff">NO CAIGAS EN LA EXTORSION</text>
+  <circle cx="164" cy="178" r="62" fill="#e8e1d6"/>
+  <path d="M135 170h58v18h-58z" fill="#c9252d"/>
+  <circle cx="372" cy="180" r="58" fill="#d6dde1"/>
+  <path d="M340 156l60 50m0-50l-60 50" stroke="#5e686d" stroke-width="12"/>
+  <text x="280" y="276" text-anchor="middle" font-family="Arial" font-size="19" font-weight="700" fill="#555">Recuerda denunciar por canales oficiales</text>
+  <rect y="306" width="560" height="34" fill="#4d5356"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="300" viewBox="0 0 520 300">
+  <rect width="520" height="300" fill="#f7f8f9"/>
+  <rect x="0" y="0" width="520" height="52" fill="#4d5356"/>
+  <text x="260" y="34" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700" fill="#fff">BOLETIN DE BUSQUEDA FICTICIO</text>
+  <circle cx="126" cy="142" r="58" fill="#dde1d8"/>
+  <circle cx="126" cy="124" r="25" fill="#7f8f87"/>
+  <path d="M78 196c12-38 84-38 96 0" fill="#7f8f87"/>
+  <text x="258" y="110" font-family="Arial" font-size="18" font-weight="700" fill="#4a4f54">PERSONA DESAPARECIDA #002</text>
+  <text x="258" y="142" font-family="Arial" font-size="15" fill="#70777c">Edad: 32 anos</text>
+  <text x="258" y="168" font-family="Arial" font-size="15" fill="#70777c">Fecha: 22 de febrero de 2024</text>
+  <text x="258" y="194" font-family="Arial" font-size="15" fill="#70777c">Colonia de referencia</text>
+  <rect x="258" y="222" width="205" height="28" rx="14" fill="#c9252d"/>
+  <text x="360" y="242" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#fff">FOTO DE REFERENCIA</text>
+</svg>

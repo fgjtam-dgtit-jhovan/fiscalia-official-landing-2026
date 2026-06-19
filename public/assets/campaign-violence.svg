@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="340" viewBox="0 0 560 340">
+  <rect width="560" height="340" fill="#45484a"/>
+  <text x="280" y="76" text-anchor="middle" font-family="Arial" font-size="35" font-weight="800" fill="#fff">Hechos y Acciones</text>
+  <text x="280" y="122" text-anchor="middle" font-family="Arial" font-size="48" font-weight="900" fill="#fff">PAISANOS</text>
+  <rect x="224" y="150" width="112" height="112" fill="#fff"/>
+  <path d="M238 164h24v24h-24zm36 0h12v12h-12zm24 0h24v24h-24zm-60 60h24v24h-24zm72 0h12v12h-12zm-36 24h48v12h-48z" fill="#222"/>
+  <circle cx="120" cy="226" r="38" fill="#d9b29d"/>
+  <circle cx="442" cy="226" r="38" fill="#d9b29d"/>
+  <rect y="304" width="560" height="36" fill="#c9252d"/>
+</svg>
