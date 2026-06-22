@@ -13,7 +13,7 @@ services:
     volumes:
       - mysql_data:/var/lib/mysql
     healthcheck:
-      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u${MYSQL_USER:-fiscalia}", "-p${MYSQL_PASSWORD:-fiscalia_password}"]
       interval: 10s
       timeout: 5s
       retries: 8
@@ -29,7 +29,10 @@ services:
       - "3000:3000"
     env_file:
       - .env
-    command: sh -c "npx prisma db push && npm run start"
+    environment:
+      # FORZAR la URL correcta para la base de datos
+      DATABASE_URL: "mysql://fiscalia:fiscalia_password@mysql:3306/fiscalia_landing"
+    command: sh -c "npx prisma generate && npx prisma db push && npm run dev"
 
 volumes:
   mysql_data:
